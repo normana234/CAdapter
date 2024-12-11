@@ -1,2 +1,2 @@
 # CAdapter
-chatgpt-adapter历史版本备份
+bincooo/chatgpt-adapter历史版本备份
